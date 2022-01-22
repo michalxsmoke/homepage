@@ -1,0 +1,18 @@
+.gallery{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    border-width: 3px;
+    border-color: #000000;
+}
+.gallery__image{
+    box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 1);
+    width: 49%;
+    border-radius: 2px;  
+}
+.gallery__image:active {
+    width:100%;
+}
+.gallery__image--rotation180{
+    transform: rotate(180deg);
+}

@@ -1,0 +1,15 @@
+.navigation{
+    padding: 5px;
+    background-color: #cfcfcf;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    border-width: 2px;
+    border-color:#000000;
+    border-style: groove;
+    border-radius: 10px;
+}
+.navigation__list{
+    padding-left: 0px;
+    list-style-type: none;
+
+}
